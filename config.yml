@@ -1,0 +1,7 @@
+#BrightProxy Config
+
+#Kick message
+Kick_Message: Polygoncraft doesn't like bots!
+
+#Notify users who have "brightproxy.notify" permission when someone tries to connect using proxy.
+Notify: true

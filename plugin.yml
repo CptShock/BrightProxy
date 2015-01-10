@@ -1,0 +1,8 @@
+name: BrightProxy
+version: "1.1.3 Blue Condor"
+main: io.github.cptshock.BrightProxy.main
+author: Bright and Samut and - The Internetz
+commands:
+    brightproxy:
+        permission: brightproxy.reload
+        description: Reloads the config.
